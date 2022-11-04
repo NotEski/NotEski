@@ -3,6 +3,8 @@
 Hi there I'm Eski (He/Him)
 
 
+https://noteski.github.io/My-Website/
+
 
 <!--
 **NotEski/NotEski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

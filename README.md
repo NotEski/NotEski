@@ -4,6 +4,8 @@ Hi there I'm Eski (He/Him)
 
 
 https://noteski.github.io/My-Website/
+https://www.youtube.com/@NotEski
+https://twitch.tv/NotEski
 
 
 <!--

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi there I'm Eski, NotEski or Declan (He/Him)
+Hi there I'm Eski or NotEski (He/Him)
 
 Currently Learning to be a Full Stack Engineer 
 

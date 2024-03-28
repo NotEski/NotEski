@@ -2,7 +2,8 @@
 
 Hi there I'm Eski or NotEski (He/Him)
 
-Currently Learning to be a Full Stack Engineer 
+Currently Learning to be a Full Stack Engineer
+Mainly using this to keep track of my coding projects
 
 https://noteski.github.io/My-Website/
 

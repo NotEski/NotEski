@@ -10,9 +10,8 @@ https://www.youtube.com/@NotEski
 
 https://twitch.tv/NotEski
 
+I'm currently working on making my own game from scratch in C++
 
-Fun Fact: 
-The "i" in iMac originally stood for internet and then it became a nameing scheem to identify Apple products
 <!--
 **NotEski/NotEski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
